@@ -17,7 +17,7 @@ After that, the user can move using "wasd" keys, select a number, change it by s
 ![5ab0c810-192e-4047-8cad-1b49bc93d3ef](https://user-images.githubusercontent.com/118437095/223247965-eff940b5-2609-47b9-8b4a-78f89c561aa3.jpg)
 
   
-   2. The number is wrong and lives > 1 - the lives counter will decrease 
+   2. The number is wrong and lives > 1 - the lives counter will decrease.
    
 ![6ee468be-b991-4426-987d-7ab8da679be8](https://user-images.githubusercontent.com/118437095/223252027-9ba8dd82-2760-442c-b644-5cfbf17147e1.jpg)
    
@@ -33,12 +33,14 @@ After that, the user can move using "wasd" keys, select a number, change it by s
    
 ![95578391-51c4-462c-affa-8dc5d065a60c](https://user-images.githubusercontent.com/118437095/223255115-209406e3-64c8-488c-bbf6-1da8a88b660c.jpg)
 
-   If the user choose to start a new game, another board will be generated
+If the user choose to start a new game, another board will be generated.
    
 ![b9f00e58-873e-423c-9ed2-b8888758414f](https://user-images.githubusercontent.com/118437095/223255179-a2190458-eaa7-47d6-bd14-b1bcf267e7c5.jpg)
 
-   There is also a settings tab where you can change the difficulty(1-3) and the number of lives(1-4) by simply clicking a button
+There is also a settings tab where you can change the difficulty(1-3) and the number of lives(1-4) by simply clicking a button.
    
 ![8200f7f4-93ba-478f-a75a-48b1cc3a8a6b](https://user-images.githubusercontent.com/118437095/223257759-88923b0d-2e5b-49dc-b375-0b5aee6d4837.jpg)
 
 ![65a8ddd9-4971-40f1-afb5-b0e26c914a46](https://user-images.githubusercontent.com/118437095/223257771-3b326e80-550b-4394-b8ad-e64384d97eb9.jpg)
+
+The last two tabs are Controls and Credits.
