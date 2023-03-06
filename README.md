@@ -8,7 +8,7 @@ If the PLAY GAME button is pressed, the board will be generated, printed and the
 
 ![9058d017-eed8-4c05-b358-6ed285d0852a](https://user-images.githubusercontent.com/118437095/223205362-f92061e7-c2bb-4048-9e50-ebabc9d14abd.jpg)
 
-After that, the user can move using "wasd" keys, select a number, change it by simply presing another number, return to menu, reset the board or quit the game. A lives counter will be shown in the right bottom corner. There are two scenarious after the user submits a number. 
+After that, the user can move using "wasd" keys, select a number, change it by simply presing another number, return to menu, reset the board or quit the game. A lives counter will be shown in the right bottom corner. There are four scenarious after the user submits a number. 
 
    1. The number is correct - the game will continue.
    
@@ -19,8 +19,8 @@ After that, the user can move using "wasd" keys, select a number, change it by s
   
    2. The number is wrong and lives > 1 - the lives counter will decrease 
    
+![6ee468be-b991-4426-987d-7ab8da679be8](https://user-images.githubusercontent.com/118437095/223252027-9ba8dd82-2760-442c-b644-5cfbf17147e1.jpg)
    
-   
-   4. The number is wrong and lives = 1 - the game stops
+   3. The number is wrong and lives = 1 - the game stops
    
   
