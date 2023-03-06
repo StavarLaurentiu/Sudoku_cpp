@@ -21,6 +21,11 @@ After that, the user can move using "wasd" keys, select a number, change it by s
    
 ![6ee468be-b991-4426-987d-7ab8da679be8](https://user-images.githubusercontent.com/118437095/223252027-9ba8dd82-2760-442c-b644-5cfbf17147e1.jpg)
    
-   3. The number is wrong and lives = 1 - the game stops
+   3. The number is wrong and lives = 1 - the game is lost
    
+![382a94c9-ae34-429d-852c-afa86ad0cfd2](https://user-images.githubusercontent.com/118437095/223253017-d8dfae39-d943-4b1f-b1d8-dbd47bdc1eb4.jpg)
   
+![4d8d3331-f0b7-476a-bedc-2c2e35167e36](https://user-images.githubusercontent.com/118437095/223253071-6193b570-47a3-4656-845e-36f10643b850.jpg)
+   
+   4. The last number is submitted corectly - the game is won
+   
