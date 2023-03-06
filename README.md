@@ -13,6 +13,9 @@ After that, the user can move using "wasd" keys, select a number, change it by s
    1. The number is correct - the game will continue.
    
 ![50d47add-3b40-442e-81ab-45ec40dfa61f](https://user-images.githubusercontent.com/118437095/223247555-200e210d-e0b2-4cab-ab84-c58998d556c4.jpg)
+
+![5ab0c810-192e-4047-8cad-1b49bc93d3ef](https://user-images.githubusercontent.com/118437095/223247965-eff940b5-2609-47b9-8b4a-78f89c561aa3.jpg)
+
   
    2. The number is wrong - the lives counter will decrease and if there are any more lives the game will continue,                                else the game stops.
    
