@@ -44,3 +44,7 @@ There is also a settings tab where you can change the difficulty(1-3) and the nu
 ![65a8ddd9-4971-40f1-afb5-b0e26c914a46](https://user-images.githubusercontent.com/118437095/223257771-3b326e80-550b-4394-b8ad-e64384d97eb9.jpg)
 
 The last two tabs are Controls and Credits.
+
+![6e78d355-da8d-49d1-bbdc-f96ba7fb577d](https://user-images.githubusercontent.com/118437095/223262358-8120025b-ef1c-4fe6-871c-0c659d7f7228.jpg)
+
+![595add27-0d6c-404a-8d66-b6f950a4f6ff](https://user-images.githubusercontent.com/118437095/223262460-f875b487-fb43-4da5-887d-1135bb67b291.jpg)
