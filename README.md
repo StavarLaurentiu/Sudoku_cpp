@@ -7,3 +7,5 @@ When the game is open the menu screen will pop up.
 If the PLAY GAME button is pressed, the board will be generated, printed and the game will start.
 
 ![9058d017-eed8-4c05-b358-6ed285d0852a](https://user-images.githubusercontent.com/118437095/223205362-f92061e7-c2bb-4048-9e50-ebabc9d14abd.jpg)
+
+After that, the user can move using "wasd" keys, select a number, change it
