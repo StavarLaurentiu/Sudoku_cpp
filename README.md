@@ -11,9 +11,11 @@ If the PLAY GAME button is pressed, the board will be generated, printed and the
 After that, the user can move using "wasd" keys, select a number, change it by simply presing another number, return to menu, reset the board or quit the game. A lives counter will be shown in the right bottom corner. There are two scenarious after the user submits a number. 
 
    1. The number is correct - the game will continue.
- 
- ![382a94c9-ae34-429d-852c-afa86ad0cfd2](https://user-images.githubusercontent.com/118437095/223246133-a82fb050-b9d7-4e4c-a458-7bcc7a36d9c6.jpg)
+   
+![50d47add-3b40-442e-81ab-45ec40dfa61f](https://user-images.githubusercontent.com/118437095/223247555-200e210d-e0b2-4cab-ab84-c58998d556c4.jpg)
   
    2. The number is wrong - the lives counter will decrease and if there are any more lives the game will continue,                                else the game stops.
    
+  ![382a94c9-ae34-429d-852c-afa86ad0cfd2](https://user-images.githubusercontent.com/118437095/223246133-a82fb050-b9d7-4e4c-a458-7bcc7a36d9c6.jpg)
+  
  ![50d47add-3b40-442e-81ab-45ec40dfa61f](https://user-images.githubusercontent.com/118437095/223246449-55e27738-91b3-4cd8-8198-772047249f0e.jpg)
