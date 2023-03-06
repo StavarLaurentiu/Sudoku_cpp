@@ -1,10 +1,16 @@
+////
+
 This is a Sudoku generator and solver made in C++ using graphics.h library.
+
+////
 
 My algorithm for generating a sudoku board starts from 3 random key numbers. Using this numbers and some arithmetic ecuations I provide 6 seed numbers which are spread across the board.
 From there I used a backtracking algorithm to solve the sudoku.
 After that, I hide some numbers (depending on the difficulty) using another own algorithm: I make a vector which consists of numbers in 0-8 range and I suffle this vector. Then I take the first number in the vector and shuffle it again, I take another number from the vector. This two numbers are i and j, I hide board[i][j]. I do this until I hide enough different numbers.
 
 This way I reduced the time complexity of generating a sudoku table by randomizing only 3 numbers (which was the thing that took the most time).
+
+////
 
 When the game is open the menu screen will pop up.
 
@@ -54,3 +60,5 @@ The last two tabs are Controls and Credits.
 ![6e78d355-da8d-49d1-bbdc-f96ba7fb577d](https://user-images.githubusercontent.com/118437095/223262358-8120025b-ef1c-4fe6-871c-0c659d7f7228.jpg)
 
 ![595add27-0d6c-404a-8d66-b6f950a4f6ff](https://user-images.githubusercontent.com/118437095/223262460-f875b487-fb43-4da5-887d-1135bb67b291.jpg)
+
+////
