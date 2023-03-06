@@ -29,3 +29,8 @@ After that, the user can move using "wasd" keys, select a number, change it by s
    
    4. The last number is submitted corectly - the game is won
    
+![95578391-51c4-462c-affa-8dc5d065a60c](https://user-images.githubusercontent.com/118437095/223255115-209406e3-64c8-488c-bbf6-1da8a88b660c.jpg)
+
+   If the user choose to start a new game, another board will be generated
+   
+![b9f00e58-873e-423c-9ed2-b8888758414f](https://user-images.githubusercontent.com/118437095/223255179-a2190458-eaa7-47d6-bd14-b1bcf267e7c5.jpg)
